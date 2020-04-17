@@ -30,9 +30,9 @@ else if($opcion == 'rest')
 
 <html>
 <head>
-<link rel="stylesheet" type="text/css" href="diseño.css" />
+<link rel="stylesheet" type="text/css" href="diseÃ±o.css" />
 </head>
-<body>
+<body bgcolor="00FFFF">
 <header>
   <div align="center" id="Titulo">
    <h1> RESPUESTA </h1>
